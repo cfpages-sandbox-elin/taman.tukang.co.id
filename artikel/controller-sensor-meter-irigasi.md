@@ -1,0 +1,223 @@
+---
+article_id: TTG-06-06
+title: "Controller, Sensor Hujan, Meter, dan Deteksi Kebocoran"
+slug: "controller-sensor-meter-irigasi"
+description: "Match zones, demand, sources, pressure, controls, and schedules to plants and site conditions."
+status: outline
+publication_date: "2025-10-22"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: TTG-06
+primary_intent: "Menetapkan kontrol, monitoring, override, alarms, testing, dan maintenance."
+reader_community: "Tukang.co.id"
+reader_address: "Sobat Tukang.co.id"
+final_route: "/artikel/controller-sensor-meter-irigasi.html"
+technical_review: required
+sources:
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
+  - "https://simbg.pu.go.id/"
+  - "https://pesta.bsn.go.id/produk/detail/9457-sniiec62305-12013"
+  - "https://pesta.bsn.go.id/produk/detail/7635-sniiec62305-22009"
+  - "https://www.who.int/publications/i/item/9241546808"
+  - "https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/"
+  - "https://ciptakarya.pu.go.id/bsb/Download/Read/35"
+  - "https://www.fao.org/forestry/urbanforestry/en/"
+  - "https://www.fao.org/4/X0490E/X0490E00.htm"
+  - "https://dataonline.bmkg.go.id/"
+  - "https://powo.science.kew.org/"
+  - "https://powo.science.kew.org/about"
+  - "https://www.treesaregood.org/treeowner"
+  - "https://klop.pu.go.id/pelatihan/pelatihan-reguler/952/file/2022-01-11/07a82_Modul_3_02122019.pdf"
+  - "https://bpsdm.pu.go.id/v2/bacaberita/tingkatkan-pemahaman-perencanaan-drainase-perkotaan-melalui-pelatihan1"
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Controller, Sensor Hujan, Meter, dan Deteksi Kebocoran
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Controller, Sensor Hujan, Meter, dan Deteksi Kebocoran”
+- **Reader and situation:** Match zones, demand, sources, pressure, controls, and schedules to plants and site conditions.
+- **Reader outcome:** Match zones, demand, sources, pressure, controls, and schedules to plants and site conditions.
+- **Primary intent:** Menetapkan kontrol, monitoring, override, alarms, testing, dan maintenance.
+- **Reader community:** `Tukang.co.id`
+- **Primary friendly address:** `Sobat Tukang.co.id`
+- **Natural variants:** `Kawan Tukang.co.id` and `Teman Tukang.co.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** Memiliki operational controls; electrical installation dimiliki TTG-14.
+- **Final public route:** `/artikel/controller-sensor-meter-irigasi.html`
+- **Appointed CMS date:** `2025-10-22` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Sobat Tukang.co.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Controller, Sensor Hujan, Meter, dan Deteksi Kebocoran**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Sobat Tukang.co.id`, `Kawan Tukang.co.id`, or `Teman Tukang.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-01
+
+- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
+- **Purpose for this article:** Freeze the verified editorial scope for `taman.tukang.co.id` and prevent family research from overriding this project's actual catalog boundaries.
+- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
+- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+
+### KR-25
+
+- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-) and [SIMBG public service](https://simbg.pu.go.id/).
+- **Purpose for this article:** Ground function, site, building-governance, approval, inspection, use, alteration, and handover articles.
+- **Safe grounded facts:** The marketing label “gazebo,” small area, open sides, prefabrication, or garden location does not by itself settle classification, approval, setback, site, accessibility, fire, structural, or use obligations.
+- **Limits:** Confirm current national and local rules, land/site status, function/classification, proposed work, PBG/SLF applicability, submissions, responsible professionals, inspections, and approvals under G-02.
+
+### KR-36
+
+- **Original sources:** [SNI IEC 62305-1:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9457-sniiec62305-12013) and [SNI IEC 62305-2:2009 official BSN record](https://pesta.bsn.go.id/produk/detail/7635-sniiec62305-22009).
+- **Purpose for this article:** Bound lightning-risk, external protection, earthing, bonding, surge, inspection, and “needs a rod” claims.
+- **Safe grounded facts:** A nearby taller object, isolated location, metal roof, simple air terminal, or product certificate does not independently prove acceptable lightning risk or a complete protection system.
+- **Limits:** Obtain current complete standard set, site/structure/use data, exposure and consequences, incoming services, existing protection, risk calculation, competent design/installation, component evidence, inspection/testing, and maintenance under G-01/G-09/G-11.
+
+### KR-48
+
+- **Original sources:** [WHO Guidelines for Safe Recreational Water Environments](https://www.who.int/publications/i/item/9241546808), [WOAH Aquatic Animal Health Code](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/aquatic-code-online-access/).
+- **Purpose for this article:** Ground garden-water articles without copying swimming-pool limits or treating fish as decoration.
+- **Safe grounded facts:** Clear water does not prove safe chemistry, microbiology, oxygen, animal welfare, hydraulic performance, electrical safety, or watertightness.
+- **Limits:** Require purpose-specific water criteria, calculations, product/system data, electrical and structural design, animal-health expertise, local discharge rules, and measured commissioning.
+
+### KR-41
+
+- **Original sources:** [PUPR Guide to Green Open Space Planning](https://ciptakarya.pu.go.id/bsb/Download/Read/35), [FAO Urban and Peri-urban Forestry](https://www.fao.org/forestry/urbanforestry/en/).
+- **Purpose for this article:** Connect plant function and aesthetics to roots, canopy, utilities, users, water, climate, biodiversity, and maintenance.
+- **Safe grounded facts:** Mature dimensions, root behavior, branch failure, light, water, soil, wind/salt, litter, thorns/toxicity, pests, pruning, replacement, and nursery quality are separate inputs.
+- **Limits:** Do not claim universal spacing, root safety, pet/child safety, climate tolerance, biodiversity benefit, or maintenance interval without local and species-specific evidence.
+
+### KR-43
+
+- **Original sources:** [FAO Irrigation and Drainage Paper 56](https://www.fao.org/4/X0490E/X0490E00.htm), [BMKG data portal](https://dataonline.bmkg.go.id/).
+- **Purpose for this article:** Prevent universal watering schedules and pipe sizes.
+- **Safe grounded facts:** A watering duration without emitter flow, pressure, distribution, area, soil/media, plant stage, weather, and measured response is not a transferable water quantity.
+- **Limits:** Require current local climate, water source/quality and permissions, field audit, hydraulic design, manufacturer data, and competent review.
+
+### KR-40
+
+- **Original sources:** [Kew Plants of the World Online](https://powo.science.kew.org/), [Kew POWO methods and WCVP backbone](https://powo.science.kew.org/about).
+- **Purpose for this article:** Stop common names and nursery labels from becoming unverified species, native-range, toxicity, invasiveness, or performance claims.
+- **Safe grounded facts:** Record accepted botanical name, synonym/trade name, cultivar where known, source, provenance, specimen/batch, and date. Botanical distribution does not prove local suitability.
+- **Limits:** Obtain Indonesian invasive/protected status, nursery identity, local ecology, toxicity, and site-performance evidence before selection claims.
+
+### KR-42
+
+- **Original sources:** [FAO Urban and Peri-urban Forestry](https://www.fao.org/forestry/urbanforestry/en/), [International Society of Arboriculture tree-care resources](https://www.treesaregood.org/treeowner).
+- **Purpose for this article:** Ground preparation, handling, planting, support, watering, mulching, acceptance, and transplant boundaries.
+- **Safe grounded facts:** Delivery inspection, root flare/rootball condition, pit/media interface, watering record, mulch clearance, stability, damage, replacement criteria, and establishment period can be documented.
+- **Limits:** Large-tree transplant, pruning, lifting, traffic/public work, and diseased material require qualified local arboriculture and safety review.
+
+### KR-44
+
+- **Original sources:** [PUPR Urban Drainage Planning Module](https://klop.pu.go.id/pelatihan/pelatihan-reguler/952/file/2022-01-11/07a82_Modul_3_02122019.pdf), [PUPR drainage planning overview](https://bpsdm.pu.go.id/v2/bacaberita/tingkatkan-pemahaman-perencanaan-drainase-perkotaan-melalui-pelatihan1).
+- **Purpose for this article:** Ground grading, swales, storage, infiltration, overflow, erosion, and receiving-system interfaces.
+- **Safe grounded facts:** Catchment, rainfall basis, levels, soil infiltration, groundwater, inlet/outlet, overflow path, erosion, maintenance, downstream capacity, and water quality are separate design inputs.
+- **Limits:** Do not publish universal slopes, pipe/channel sizes, soakaway capacity, or discharge approval without survey, hydrology/hydraulics, geotechnics, utilities, and local authority review.
+
+## Evidence gates
+
+- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `TTG-06-04` → `/artikel/pressure-flow-pipe-valve-irigasi.html` — Pressure, Flow, Pipe, dan Valve pada Sistem Irigasi
+- `TTG-06-05` → `/artikel/drip-micro-spray-atau-sprinkler.html` — Drip, Micro-Spray, atau Sprinkler?
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Tentukan objek, kondisi, dan tahap siklus hidup
+
+- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
+- **Tie back to this article:** Keep the explanation specific to “Controller, Sensor Hujan, Meter, dan Deteksi Kebocoran”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Mekanisme perubahan atau penurunan kinerja
+
+- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
+- **Tie back to this article:** Keep the explanation specific to “Controller, Sensor Hujan, Meter, dan Deteksi Kebocoran”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Inspeksi dan data yang perlu dicatat
+
+- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
+- **Tie back to this article:** Keep the explanation specific to “Controller, Sensor Hujan, Meter, dan Deteksi Kebocoran”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Pilihan perawatan atau intervensi
+
+- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
+- **Tie back to this article:** Keep the explanation specific to “Controller, Sensor Hujan, Meter, dan Deteksi Kebocoran”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Cara menentukan prioritas
+
+- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
+- **Tie back to this article:** Keep the explanation specific to “Controller, Sensor Hujan, Meter, dan Deteksi Kebocoran”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Rekaman, handover, dan pemicu pemeriksaan ulang
+
+- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
+- **Tie back to this article:** Keep the explanation specific to “Controller, Sensor Hujan, Meter, dan Deteksi Kebocoran”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Sobat Tukang.co.id!` and uses friendly `Tukang.co.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.
